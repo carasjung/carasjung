@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me:
 
-I am...<br><br> 🌉 Currently based in the Bay Area finishing my MSCS from University of Colorado Boulder (December 2025)<br><br> 💻 Interested in exploring the domains of software engineering, machine learning, and crafting solid applications<br><br> 🌐 Working full-time at NAVER Corp for their WEBTOON platform<br><br> 🔗 You can also find my [portfolio here](https://carasjung.com/)
+I am...<br><br> 🌉 Currently based in the Bay Area<br><br> 💻 Partnerships, Programs & Ops | Tech + Medias<br><br> 🌐 Driving global creator programs, scalable partner frameworks, and cross-team execution for tech platforms.<br><br> 🔗 You can also find my [portfolio here](https://carasjung.com/)
 
 
 ## 👥 Socials:
