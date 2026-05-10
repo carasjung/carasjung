@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me:
 
-I am...<br><br> 🌉 Currently based in the Bay Area<br><br> 💻 Partnerships, Programs & Ops | Tech + Media<br><br> 🌐 Driving global creator programs, scalable partner frameworks, and cross-team execution for tech platforms.<br><br> 🔗 You can also find my [portfolio here](https://carasjung.com/)
+I am...<br><br> 🌉 Currently based in the Bay Area<br><br> 💻 Exploring DevRel<br><br> 
 
 
 ## 👥 Socials:
